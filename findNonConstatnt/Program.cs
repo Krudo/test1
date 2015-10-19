@@ -12,6 +12,8 @@ namespace findNonConstatnt
         {
             Console.WriteLine("lkjlkj");
             Console.ReadKey();
+            Console.WriteLine("aaa");
+            // hello
         }
     }
 }
